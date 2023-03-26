@@ -1,0 +1,30 @@
+
+p{
+    font-family:arial;
+    font-size:30px;
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+        
+.shop{
+    font-weight:bold;
+    font-size:50px;
+    margin-top: 280px;
+}
+        
+.Work{
+    margin-top: 10px;
+}
+        
+.Learn{
+    color:rgb(0, 94, 255);
+    cursor:pointer;
+    margin-top:10px;
+}
+.Learn:hover{
+        Text-decoration:underline;
+}
+.Learn:active{
+    opacity: 0.6;
+}
